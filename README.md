@@ -1,5 +1,5 @@
 
-** Animated cube icon generator **
+# Animated cube icon generator
 
 This program generates animated pictures with a 3D cube moving inside. Looking at the code, it's easy to change size, and moving speeds in every three directions.
 
